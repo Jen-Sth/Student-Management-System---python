@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Mary Sue",
+        "email": "mary123@gmail.com",
+        "phone": 6352434342,
+        "address": "Bhaktapur",
+        "roll_no": "ABC001",
+        "marks": {
+            "Science": 50,
+            "Math": 60,
+            "English": 75
+        }
+    },
+    {
+        "name": "Lan Wangji",
+        "email": "wangji234@gmail.com",
+        "phone": 32456655,
+        "address": "Bhaktapur",
+        "roll_no": "ABC002",
+        "marks": {
+            "Science": 80,
+            "Math": 90,
+            "English": 92
+        }
+    }
+]

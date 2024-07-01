@@ -1,0 +1,16 @@
+[
+    {
+        "name": "John Smith",
+        "email": "John123@gmail.com",
+        "phone": "0000011111",
+        "address": "Nala",
+        "teacher_id": "T123John"
+    },
+    {
+        "name": "Jane Doe",
+        "email": "janeDoe123@gmail.com",
+        "phone": "1111100000",
+        "address": "Kathmandu",
+        "teacher_id": "T345Jane"
+    }
+]
